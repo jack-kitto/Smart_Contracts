@@ -9,6 +9,9 @@ npx hardhat node
 5. In Remix go Deploy and Run Transaction (Side Bar) > Environment (Drop down menu) > Injected Web3 Provider
 6. Deploy Contract
 7. Make calls to the contract by scrolling down to the bottom to see your deployed contracts
+---
+#Useful Resources 
+- https://docs.openzeppelin.com/learn/deploying-and-interacting
 
 ---
 # Potential Fixes to Problems
