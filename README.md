@@ -10,6 +10,6 @@ npx hardhat node
 6. Deploy Contract
 7. Make calls to the contract by scrolling down to the bottom to see your deployed contracts
 
---
+---
 # Potential Fixes to Problems
 1. Resetting account in Metamask by going Settings > Advanced > Reset Account
