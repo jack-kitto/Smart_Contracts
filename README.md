@@ -10,7 +10,7 @@ npx hardhat node
 6. Deploy Contract
 7. Make calls to the contract by scrolling down to the bottom to see your deployed contracts
 ---
-#Useful Resources 
+# Useful Resources 
 - https://docs.openzeppelin.com/learn/deploying-and-interacting
 
 ---
